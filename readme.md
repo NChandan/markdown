@@ -1,4 +1,10 @@
 # Exceptions
+## Built-in Exception variable
+
+- type(e).__name__ -> give the exception name
+- dir(e) ->  related methods
+- e.args -> print tuple of args
+
 ## Built-in Exceptions
 
 ### Base classes
